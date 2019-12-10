@@ -19,7 +19,7 @@ Para poder correr los jupyter notebooks es necesario tomar en cuenta las siguien
 Para instalar el ambiente completo en tu computadora, se sugiere usar [Anaconda](https://www.anaconda.com/) con el archivo `archivo.yml` de la siguiente manera: 
 
 ```
-conda env create -n nombre_ambiente -f archivo.yml
+conda  create -n  archivo.yml
 ```
 
 Puedes cambiar el nombre del ambiente por el que tu prefieras. Finalmente, debes activar el ambiente cuando desees utilizarlo
@@ -29,3 +29,8 @@ conda activate nombre_ambiente
 ```
 
 Elije de la siguiente lista de arvhivos.yml el que corresponda a tu computadora.
+
+* `capsnet_cpu.yml` para correr los jupyter-notebook de `capsnet` usando cpu 
+* `capsnet_gpu.yml` para correr los jupyter-notebook de `capsnet` usando gpu
+* `environment_cpu.yml` para correr los jupyter-notebook de `CNN` usando cpu 
+* `environment_gpu.yml` para correr los jupyter-notebook de `CNN` usando gpu 
