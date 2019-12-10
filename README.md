@@ -8,6 +8,7 @@ Para el casO de `MNIST` al final de los notebook se tienen los comandos necesari
 ## Corriendo los notebooks
 
 Para poder correr los jupyter notebooks es necesario tomar en cuenta las siguientes consideraciones:
+
 	1. Los modelos de CNN fueron entrenado en la versión beta de tensorflow2.0, para poder correrlos, se recomienda primero crear un ambiente local como se menciona abajo.
 
 	2. CapsNet fue entrenada con una versión distinta de tensorflow
