@@ -34,3 +34,9 @@ Elije de la siguiente lista de arvhivos.yml el que corresponda a tu computadora.
 * `capsnet_gpu.yml` para correr los jupyter-notebook de `capsnet` usando gpu
 * `environment_cpu.yml` para correr los jupyter-notebook de `CNN` usando cpu 
 * `environment_gpu.yml` para correr los jupyter-notebook de `CNN` usando gpu 
+
+
+## Resultado
+
+En el archivo `CapsNet-Comparative-Performance.pdf` se encuentran los resultados comparativos de los modelos, así como algunas observaciones de interes y referencias utilizadas.
+ 
