@@ -27,3 +27,5 @@ Puedes cambiar el nombre del ambiente por el que tu prefieras. Finalmente, debes
 ```
 conda activate nombre_ambiente
 ```
+
+Elije de la siguiente lista de arvhivos.yml el que corresponda a tu computadora.
