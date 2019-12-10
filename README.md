@@ -14,11 +14,11 @@ Para poder correr los jupyter notebooks es necesario tomar en cuenta las siguien
 
 	2. CapsNet fue entrenada con una versión distinta de tensorflow
 
-### Ambiente local
-Para instalar el ambiente completo en tu computadora, se sugiere usar [Anaconda](https://www.anaconda.com/) con el archivo `environment_cpu.yml` de la siguiente manera: 
+### Ambiente local [Ref](https://github.com/gibranfp/CursoAprendizajeProfundo)
+Para instalar el ambiente completo en tu computadora, se sugiere usar [Anaconda](https://www.anaconda.com/) con el archivo `archivo.yml` de la siguiente manera: 
 
 ```
-conda env create -n cursoap -f environment_cpu.yml
+conda env create -n nombre_ambiente -f archivo.yml
 ```
 
 Si tu computadora cuenta con GPU NVIDIA y deseas aprovecharlo, instala los controladores y cambia el archivo `environment_cpu.yml` por `environment_gpu.yml`, es decir
